@@ -12,17 +12,16 @@ const request = ({
   type?: string;
   data?: object;
 }) => {
-
-  console.log(type === "get", data)
   if (type === "get") {
-    return axios.get(url, { params: data }).then((result) => {
-      return result;
-    })
+    return axios
+      .get(url, { params: data })
+      .then((result) => {
+        return result;
+      })
       .catch((error) => {
         throw error?.response;
       });
   } else {
-    console.log(type === "get", { params: { ...data } }, data)
     return axios({
       method: type,
       url: url,
@@ -35,7 +34,6 @@ const request = ({
         throw error?.response;
       });
   }
-
 };
 
 export default request;

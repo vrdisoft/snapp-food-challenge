@@ -36,7 +36,8 @@
   "rules": {
     "linebreak-style": "off",
     "react-hooks/rules-of-hooks": "error",
-    "react-hooks/exhaustive-deps": "warn",
+    "react-hooks/exhaustive-deps": "off",
+    "import/named": "off",
     "prettier/prettier": [
       "error",
       {
@@ -54,6 +55,8 @@
       }
     ],
     "@typescript-eslint/ban-ts-ignore": "off",
-    "@typescript-eslint/ban-ts-comment": "off"
+    "@typescript-eslint/ban-ts-comment": "off",
+    "@typescript-eslint/default-param-last": "off",
+    "@typescript-eslint/no-explicit-any": "off"
   }
 }
