@@ -52,12 +52,6 @@ module.exports = {
           ,
           {
             loader: 'css-loader',
-            options: {
-              modules: {
-                localIdentName: '[local]'
-              },
-              //url: false
-            },
           },
           {
             loader: 'resolve-url-loader',
