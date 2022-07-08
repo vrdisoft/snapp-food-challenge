@@ -1,0 +1,177 @@
+@use "../../../style/base";
+
+.vendore {
+  &-card {
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    text-decoration: none;
+    width: calc(100% - 32px);
+    height: 100%;
+    padding-right: 16px;
+    padding-left: 16px;
+
+    &-section {
+      width: 100%;
+      height: 248px;
+      max-width: 567px;
+      min-width: min(calc(100% - 4px), 260px);
+      background-color: base.$white;
+      direction: rtl;
+      border-radius: 6px;
+      border: solid 0.5px base.$seperator-color;
+      box-shadow: 0 2px 12px 0 base.$card-shadow;
+
+
+      &-header {
+        position: relative;
+
+        &-cover {
+          width: inherit;
+          overflow: hidden;
+          position: relative;
+          height: 134px;
+          max-height: 100%;
+          overflow: unset;
+
+          &-image {
+            width: 100%;
+            height: inherit;
+            -o-object-fit: cover;
+            object-fit: cover;
+            border-radius: 6px 6px 0 0;
+            -webkit-filter: brightness(0.96);
+            filter: brightness(0.96);
+          }
+        }
+
+        &-logo {
+          position: absolute;
+          bottom: -16px;
+          right: 8px;
+          width: 64px;
+          height: 64px;
+          padding: 4px;
+          border-radius: 8px;
+          background-color: base.$white;
+          box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.1);
+          padding-left: 6px;
+
+          &-image {
+            width: 100%;
+            height: 100%;
+            border-radius: 4px;
+            border: 1px solid rgba(64, 64, 64, 0.04);
+
+          }
+        }
+
+        &-coupon {
+          position: absolute;
+          top: 8px;
+          right: 0;
+          display: flex;
+          flex-direction: row;
+          justify-content: space-between;
+          align-items: center;
+          width: 100%;
+
+          &-continer {
+            position: relative;
+            display: flex;
+            flex-direction: row;
+            justify-content: flex-start;
+            align-items: center;
+            font-size: base.$text-small;
+            color: base.$primary-deep-green;
+            height: 24px;
+            border-radius: 16px 0 0 16px;
+            padding: 4px 8px;
+            overflow: hidden;
+            background-color: base.$white;
+          }
+        }
+      }
+
+      &-body {
+        display: flex;
+        flex-direction: column;
+        padding: 20px 16px 8px 16px;
+        height: 110px;
+        direction: rtl;
+
+        &-title {
+          display: flex;
+          flex-direction: row;
+          justify-content: space-between;
+          align-items: center;
+          margin-bottom: 10px;
+
+          &-text {
+            font-size: base.$text-medium;
+            color: base.$text-color;
+            width: 100%;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            margin: 0;
+            position: relative;
+            width: unset;
+            max-width: 100%;
+            margin-left: 4px;
+            text-overflow: ellipsis;
+            line-height: 1.5;
+
+          }
+
+          &-rate {
+            display: flex;
+            flex-direction: row-reverse;
+            gap: 5px;
+
+            &-percent {
+              color: base.$star-color;
+            }
+
+            &-count {
+              color: base.$text-color-light;
+            }
+          }
+        }
+
+        &-description {
+          font-size: base.$text-small;
+          color: base.$text-color;
+          width: 100%;
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          flex-shrink: 0;
+        }
+
+        &-delivery {
+          font-size: base.$text-small;
+          color: base.$text-color;
+          width: 100%;
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          flex-shrink: 0;
+          margin-top: 10px;
+
+          &-title {
+            color: base.$text-color-light;
+          }
+        }
+      }
+    }
+  }
+}

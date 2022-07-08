@@ -5,6 +5,7 @@ import routes from "./routes";
 import * as paths from "./routes/paths";
 import "./App.scss";
 import Layout from "./layout";
+import "./assets/css/font-awesome.css";
 
 function App() {
   return (

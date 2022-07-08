@@ -17,9 +17,10 @@ function handleGetVendoreListSuccess(
 
   return {
     ...state,
-    data: [...data],
+    data: [...state.data, ...data],
     count: payload.count,
     open_count: payload.open_count,
+    page: payload.page,
   };
 }
 

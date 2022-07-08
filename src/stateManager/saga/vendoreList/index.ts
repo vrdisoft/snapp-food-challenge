@@ -4,12 +4,11 @@ import { ACTIONS } from "../../action/vendoreList/actionCreator";
 
 function* handleGetVendoreList(action: ActinType) {
   try {
-    console.log(action);
     /* @ts-ignore: Unreachable code error*/
     const vendoreList = yield call(getVendorsListApi, action.payload);
     yield put({
       type: "GET_VENDORE_LIST_SUCCESS",
-      payload: { ...vendoreList.data.data },
+      payload: { ...vendoreList.data.data, ...{ page: action.payload.page } },
     });
   } catch (err: any) {
     yield put({ type: "GET_VENDORE_LIST_FAILED", message: err.message });

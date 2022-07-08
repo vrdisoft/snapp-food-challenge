@@ -14,9 +14,7 @@
 
     &-continer {
         height: calc(100% - 60px);
-        overflow: auto;
-        padding-left: 50px;
-        padding-right: 50px;
+        overflow: hidden;
         padding-top: 10px;
     }
 }

@@ -2,9 +2,34 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  font-family: IRANSansMedium;
 }
 
 .app-continer {
   width: 100%;
   height: 100vh;
+}
+
+@font-face {
+  font-family: IRANSans;
+  src: url(./assets/fonts/IRANSansWeb_Bold.woff);
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: WYekan;
+  src: url(./assets/fonts/web_Yekan.woff);
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: IRANSansMedium;
+  src: url(./assets/fonts/IRANSansWeb_Medium.woff);
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
 }
