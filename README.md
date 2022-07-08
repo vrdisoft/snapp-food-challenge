@@ -19,5 +19,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-
+### `npm run test`
+امکان تست نوشتن وجود نداشت چون از پکیج react-window استفاده کردم و مشکل داره
+ [https://github.com/bvaughn/react-window/issues/454](https://github.com/bvaughn/react-window/issues/454)
 

@@ -1,0 +1,2611 @@
+{
+  "data": {
+    "count": 567,
+    "open_count": 516,
+    "finalResult": [
+      {
+        "type": "TEXT",
+        "data": "516 فروشنده‌ی باز"
+      },
+      {
+        "type": "VENDOR",
+        "data": {
+          "id": 59715,
+          "vendorCode": "0nqvor",
+          "noOrder": false,
+          "title": "بیف لاین (فودکورت اپال)",
+          "description": "فست‌فود ,برگر ,ساندویچ ,سالاد",
+          "rate": 4.6,
+          "rating": 9.2133027522936,
+          "logo": "https://cdn.snappfood.ir/media/cache/vendor_logo/uploads/images/vendors/logos/61471188ed052.jpeg",
+          "defLogo": "https://cdn.snappfood.ir/media/cache/vendor_logo/uploads/images/vendors/logos/61471188ed052.jpeg",
+          "taxEnabled": false,
+          "taxIncluded": false,
+          "taxEnabledInProducts": false,
+          "taxEnabledInPackaging": false,
+          "taxEnabledInDeliveryFee": false,
+          "tax": 0,
+          "serviceFee": 0,
+          "deliveryArea": "",
+          "discount": 0,
+          "isOpen": true,
+          "minDeliveryFee": 0,
+          "maxDeliveryFee": 0,
+          "deliveryTime": 0,
+          "paymentTypes": [
+            1,
+            2,
+            3,
+            5
+          ],
+          "schedules": [
+            {
+              "type": 0,
+              "weekday": 1,
+              "allDay": false,
+              "startHour": "11:00",
+              "stopHour": "23:59"
+            },
+            {
+              "type": 0,
+              "weekday": 2,
+              "allDay": false,
+              "startHour": "11:00",
+              "stopHour": "23:59"
+            },
+            {
+              "type": 0,
+              "weekday": 3,
+              "allDay": false,
+              "startHour": "11:00",
+              "stopHour": "23:59"
+            },
+            {
+              "type": 0,
+              "weekday": 4,
+              "allDay": false,
+              "startHour": "11:00",
+              "stopHour": "23:59"
+            },
+            {
+              "type": 0,
+              "weekday": 5,
+              "allDay": false,
+              "startHour": "11:00",
+              "stopHour": "23:59"
+            },
+            {
+              "type": 0,
+              "weekday": 6,
+              "allDay": false,
+              "startHour": "11:00",
+              "stopHour": "23:59"
+            },
+            {
+              "type": 0,
+              "weekday": 7,
+              "allDay": false,
+              "startHour": "11:00",
+              "stopHour": "23:59"
+            }
+          ],
+          "minOrder": 25000,
+          "address": "سعادت آباد، میدان کتاب، بلوار کوهستان، مرکز خرید تجاری اپال، پارکینگ 2 ، بیف لاین (فودکورت اپال)",
+          "phone": "26350815 - 26350818 - 09351610712",
+          "website": "",
+          "status": 1,
+          "lat": 35.776983,
+          "lon": 51.351326,
+          "restaurantClass": "",
+          "foodTypes": [],
+          "restaurantTypes": [],
+          "isFavorite": false,
+          "priority": 1000,
+          "city": "تهران",
+          "area": "آسمان",
+          "commentCount": 5924,
+          "recommendedFor": "",
+          "establishment": "FOODCOURT",
+          "mostPopularItems": "",
+          "costsForTwo": 180500,
+          "onlineOrder": true,
+          "voteCount": 5924,
+          "discountType": null,
+          "menuUrl": "https://snappfood.ir/restaurant/menu/0nqvor/beefline?superTypeAlias=RESTAURANT",
+          "discountValue": 0,
+          "discountForAll": false,
+          "containerFee": 0,
+          "deliveryGuarantee": false,
+          "badges": [
+            {
+              "title": "ارسال با اسنپ فود",
+              "description": "سفارش شما از این رستوران با اسنپ‌اکسپرس، سریع‌تر به دست شما می‌رسد",
+              "image": "https://static.zoodfood.com/bundles/bodofoodfrontend/images/vendor/express-badge-png.png",
+              "white_image": "https://static.zoodfood.com/bundles/bodofoodfrontend/images/vendor/header/express.png"
+            }
+          ],
+          "discountStartHour1": "",
+          "discountStopHour1": "",
+          "discountStartHour2": "",
+          "discountStopHour2": "",
+          "discountValueForView": 0,
+          "coverPath": "https://cdn.snappfood.ir/300x100/uploads/images/vendors/covers/62b21fe5e9b30.jpeg",
+          "cuisinesArray": [
+            {
+              "id": 8,
+              "title": "ساندویچ"
+            },
+            {
+              "id": 9,
+              "title": "برگر"
+            },
+            {
+              "id": 11,
+              "title": "فست فود"
+            },
+            {
+              "id": 22,
+              "title": "استیک"
+            },
+            {
+              "id": 36,
+              "title": "سالاد"
+            }
+          ],
+          "preOrderEnabled": false,
+          "preorderToday": {
+            "weekday": "",
+            "name": "",
+            "startHour": "",
+            "intervals": null
+          },
+          "vendorType": "RESTAURANT",
+          "childType": "RESTAURANT",
+          "budgetClass": "مناسب",
+          "vendorTypeTitle": "رستوران",
+          "isZFExpress": true,
+          "deliveryFee": 9500,
+          "backgroundImage": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/62b21fe5e9b30.jpeg",
+          "backgroundImageCustom": "https://cdn.snappfood.ir/w.x.h/uploads/images/vendors/covers/62b21fe5e9b30.jpeg",
+          "has_coupon": false,
+          "coupon_count": 0,
+          "best_coupon": "",
+          "userImage": [
+            {
+              "id": 5034548,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/product-variation_image2/uploads/images/vendors/users/app/5f2960c113675.jpg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/users/app/5f2960c113675.jpg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "PRODUCT_IMAGE",
+              "userType": "ZOODFOOD"
+            },
+            {
+              "id": 5034549,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/product-variation_image2/uploads/images/vendors/users/app/5f2960c122abf.jpg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/users/app/5f2960c122abf.jpg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "PRODUCT_IMAGE",
+              "userType": "ZOODFOOD"
+            },
+            {
+              "id": 5034550,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/product-variation_image2/uploads/images/vendors/users/app/5f2960c128565.jpg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/users/app/5f2960c128565.jpg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "PRODUCT_IMAGE",
+              "userType": "ZOODFOOD"
+            },
+            {
+              "id": 5034551,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/product-variation_image2/uploads/images/vendors/users/app/5f2960c12f577.jpg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/users/app/5f2960c12f577.jpg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "PRODUCT_IMAGE",
+              "userType": "ZOODFOOD"
+            }
+          ],
+          "menuImage": [],
+          "countReview": 5924,
+          "countOfUserImages": 50,
+          "deliveryFeeDiscount": 0,
+          "trendingScore": 0.000024,
+          "delay": "",
+          "deliver": true,
+          "eta": -1,
+          "min_eta": -1,
+          "max_eta": -1,
+          "open_at_eta": false,
+          "action": "",
+          "has_delay": false,
+          "delay_time": 0,
+          "total_time": 0,
+          "bid": false,
+          "superTypeAlias": "RESTAURANT",
+          "is_food_party": false,
+          "is_market_party": false,
+          "click_id": null,
+          "cpc_campaign_hash": null,
+          "is_ecommerce": false,
+          "is_economical": false,
+          "is_grocery_vip": false,
+          "is_grocery_returnable": false,
+          "is_grocery_economic": false,
+          "status_title": "ACTIVE",
+          "status_text": "",
+          "status_description": ""
+        }
+      },
+      {
+        "type": "VENDOR",
+        "data": {
+          "id": 59129,
+          "vendorCode": "pvje2v",
+          "noOrder": false,
+          "title": "سالاد بار ارگانیکاپرس (سالم و رژیمی)",
+          "description": "صبحانه و میان‌وعده ,نوشیدنی سرد و بستنی ,سالاد ,پیتزا ,سس همراه غذا",
+          "rate": 4.7,
+          "rating": 9.3928946447322,
+          "logo": "https://cdn.snappfood.ir/media/cache/vendor_logo/uploads/images/vendors/logos/62b6fd9e5d452.jpg",
+          "defLogo": "https://cdn.snappfood.ir/media/cache/vendor_logo/uploads/images/vendors/logos/62b6fd9e5d452.jpg",
+          "taxEnabled": false,
+          "taxIncluded": false,
+          "taxEnabledInProducts": false,
+          "taxEnabledInPackaging": false,
+          "taxEnabledInDeliveryFee": false,
+          "tax": 0,
+          "serviceFee": 0,
+          "deliveryArea": "",
+          "discount": 0,
+          "isOpen": true,
+          "minDeliveryFee": 0,
+          "maxDeliveryFee": 0,
+          "deliveryTime": 0,
+          "paymentTypes": [
+            1,
+            2
+          ],
+          "schedules": [
+            {
+              "type": 0,
+              "weekday": 1,
+              "allDay": false,
+              "startHour": "11:00",
+              "stopHour": "23:30"
+            },
+            {
+              "type": 0,
+              "weekday": 2,
+              "allDay": false,
+              "startHour": "11:00",
+              "stopHour": "23:30"
+            },
+            {
+              "type": 0,
+              "weekday": 3,
+              "allDay": false,
+              "startHour": "11:00",
+              "stopHour": "23:30"
+            },
+            {
+              "type": 0,
+              "weekday": 4,
+              "allDay": false,
+              "startHour": "11:00",
+              "stopHour": "23:30"
+            },
+            {
+              "type": 0,
+              "weekday": 5,
+              "allDay": false,
+              "startHour": "11:00",
+              "stopHour": "23:30"
+            },
+            {
+              "type": 0,
+              "weekday": 6,
+              "allDay": false,
+              "startHour": "11:00",
+              "stopHour": "23:30"
+            },
+            {
+              "type": 0,
+              "weekday": 7,
+              "allDay": false,
+              "startHour": "11:00",
+              "stopHour": "23:00"
+            }
+          ],
+          "minOrder": 70000,
+          "address": "سردار جنگل جنوب، خیابان بهار غربی، میدان استاندارد،  خیابان سهند، بالا تر از کوچه نسترن، سالاد بار ارگانیکاپرس (سالم و رژیمی)",
+          "phone": "44617725",
+          "website": "",
+          "status": 1,
+          "lat": 35.76854,
+          "lon": 51.324665,
+          "restaurantClass": "",
+          "foodTypes": [],
+          "restaurantTypes": [],
+          "isFavorite": false,
+          "priority": 1000,
+          "city": "تهران",
+          "area": "پونک شمالی",
+          "commentCount": 11248,
+          "recommendedFor": "",
+          "establishment": "CAFE",
+          "mostPopularItems": "",
+          "costsForTwo": 89000,
+          "onlineOrder": true,
+          "voteCount": 11248,
+          "discountType": null,
+          "menuUrl": "https://snappfood.ir/restaurant/menu/pvje2v/organika?superTypeAlias=RESTAURANT",
+          "discountValue": 0,
+          "discountForAll": false,
+          "containerFee": 0,
+          "deliveryGuarantee": true,
+          "badges": [
+            {
+              "title": "ارسال با اسنپ فود",
+              "description": "سفارش شما از این رستوران با اسنپ‌اکسپرس، سریع‌تر به دست شما می‌رسد",
+              "image": "https://static.zoodfood.com/bundles/bodofoodfrontend/images/vendor/express-badge-png.png",
+              "white_image": "https://static.zoodfood.com/bundles/bodofoodfrontend/images/vendor/header/express.png"
+            }
+          ],
+          "discountStartHour1": "",
+          "discountStopHour1": "",
+          "discountStartHour2": "",
+          "discountStopHour2": "",
+          "discountValueForView": 15,
+          "coverPath": "https://cdn.snappfood.ir/300x100/uploads/images/vendors/covers/60116d9ec9c96.jpg",
+          "cuisinesArray": [
+            {
+              "id": 8,
+              "title": "ساندویچ"
+            },
+            {
+              "id": 36,
+              "title": "سالاد"
+            },
+            {
+              "id": 37,
+              "title": "گیاهی"
+            },
+            {
+              "id": 44,
+              "title": "آب میوه"
+            },
+            {
+              "id": 55,
+              "title": "رژیمی"
+            }
+          ],
+          "preOrderEnabled": false,
+          "preorderToday": {
+            "weekday": "",
+            "name": "",
+            "startHour": "",
+            "intervals": null
+          },
+          "vendorType": "RESTAURANT",
+          "childType": "RESTAURANT",
+          "budgetClass": "مناسب",
+          "vendorTypeTitle": "رستوران",
+          "isZFExpress": true,
+          "deliveryFee": 6500,
+          "backgroundImage": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/60116d9ec9c96.jpg",
+          "backgroundImageCustom": "https://cdn.snappfood.ir/w.x.h/uploads/images/vendors/covers/60116d9ec9c96.jpg",
+          "has_coupon": true,
+          "coupon_count": 5,
+          "best_coupon": "5٪ تخفیف مخصوص سفارش دوم",
+          "userImage": [
+            {
+              "id": 13542520,
+              "description": "",
+              "fileName": "https://cdn.snappfood.ir/media/cache/vendor_user_app_image2/uploads/images/vendors/62652ed0396f8.jpeg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/62652ed0396f8.jpeg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": null,
+              "userType": "VENDOR"
+            },
+            {
+              "id": 13445482,
+              "description": "",
+              "fileName": "https://cdn.snappfood.ir/media/cache/vendor_user_app_image2/uploads/images/vendors/625abf5dc4bc6.jpeg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/625abf5dc4bc6.jpeg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": null,
+              "userType": "VENDOR"
+            },
+            {
+              "id": 13445007,
+              "description": "",
+              "fileName": "https://cdn.snappfood.ir/media/cache/vendor_user_app_image2/uploads/images/vendors/625ab4834b148.jpeg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/625ab4834b148.jpeg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": null,
+              "userType": "VENDOR"
+            },
+            {
+              "id": 13444011,
+              "description": "",
+              "fileName": "https://cdn.snappfood.ir/media/cache/vendor_user_app_image2/uploads/images/vendors/625a9fbcb194d.jpeg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/625a9fbcb194d.jpeg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": null,
+              "userType": "VENDOR"
+            }
+          ],
+          "menuImage": [],
+          "countReview": 11248,
+          "countOfUserImages": 140,
+          "deliveryFeeDiscount": 0,
+          "trendingScore": 0.000019,
+          "delay": "",
+          "deliver": true,
+          "eta": -1,
+          "min_eta": -1,
+          "max_eta": -1,
+          "open_at_eta": false,
+          "action": "",
+          "has_delay": false,
+          "delay_time": 0,
+          "total_time": 0,
+          "bid": false,
+          "superTypeAlias": "RESTAURANT",
+          "is_food_party": false,
+          "is_market_party": false,
+          "click_id": null,
+          "cpc_campaign_hash": null,
+          "is_ecommerce": false,
+          "is_economical": false,
+          "is_grocery_vip": false,
+          "is_grocery_returnable": false,
+          "is_grocery_economic": false,
+          "status_title": "ACTIVE",
+          "status_text": "",
+          "status_description": ""
+        }
+      },
+      {
+        "type": "VENDOR",
+        "data": {
+          "id": 29727,
+          "vendorCode": "3d5g1d",
+          "noOrder": false,
+          "title": "رستوران طریقت",
+          "description": "ایرانی ,کباب ,ماهی ,مرغ",
+          "rate": 4.3,
+          "rating": 8.6919926982091,
+          "logo": "https://cdn.snappfood.ir/media/cache/vendor_logo/uploads/images/vendors/logos/5ddce9b32b53d.jpg",
+          "defLogo": "https://cdn.snappfood.ir/media/cache/vendor_logo/uploads/images/vendors/logos/5ddce9b32b53d.jpg",
+          "taxEnabled": false,
+          "taxIncluded": false,
+          "taxEnabledInProducts": false,
+          "taxEnabledInPackaging": false,
+          "taxEnabledInDeliveryFee": false,
+          "tax": 0,
+          "serviceFee": 0,
+          "deliveryArea": "",
+          "discount": 0,
+          "isOpen": true,
+          "minDeliveryFee": 0,
+          "maxDeliveryFee": 0,
+          "deliveryTime": 0,
+          "paymentTypes": [
+            1,
+            2,
+            3
+          ],
+          "schedules": [
+            {
+              "type": 0,
+              "weekday": 1,
+              "allDay": false,
+              "startHour": "12:00",
+              "stopHour": "16:00"
+            },
+            {
+              "type": 0,
+              "weekday": 1,
+              "allDay": false,
+              "startHour": "19:30",
+              "stopHour": "23:00"
+            },
+            {
+              "type": 0,
+              "weekday": 2,
+              "allDay": false,
+              "startHour": "12:00",
+              "stopHour": "16:00"
+            },
+            {
+              "type": 0,
+              "weekday": 2,
+              "allDay": false,
+              "startHour": "19:30",
+              "stopHour": "23:00"
+            },
+            {
+              "type": 0,
+              "weekday": 3,
+              "allDay": false,
+              "startHour": "12:00",
+              "stopHour": "16:00"
+            },
+            {
+              "type": 0,
+              "weekday": 3,
+              "allDay": false,
+              "startHour": "19:30",
+              "stopHour": "23:00"
+            },
+            {
+              "type": 0,
+              "weekday": 4,
+              "allDay": false,
+              "startHour": "12:00",
+              "stopHour": "16:00"
+            },
+            {
+              "type": 0,
+              "weekday": 4,
+              "allDay": false,
+              "startHour": "19:30",
+              "stopHour": "23:00"
+            },
+            {
+              "type": 0,
+              "weekday": 5,
+              "allDay": false,
+              "startHour": "12:00",
+              "stopHour": "16:00"
+            },
+            {
+              "type": 0,
+              "weekday": 5,
+              "allDay": false,
+              "startHour": "19:30",
+              "stopHour": "23:00"
+            },
+            {
+              "type": 0,
+              "weekday": 6,
+              "allDay": false,
+              "startHour": "12:00",
+              "stopHour": "16:00"
+            },
+            {
+              "type": 0,
+              "weekday": 6,
+              "allDay": false,
+              "startHour": "19:30",
+              "stopHour": "23:00"
+            },
+            {
+              "type": 0,
+              "weekday": 7,
+              "allDay": false,
+              "startHour": "12:00",
+              "stopHour": "16:00"
+            },
+            {
+              "type": 0,
+              "weekday": 7,
+              "allDay": false,
+              "startHour": "19:30",
+              "stopHour": "23:00"
+            }
+          ],
+          "minOrder": 25000,
+          "address": "خیابان ستاری شمال، خیابان زیتون، خیابان فرهنگیان، جنب مسجد بقیة الله، طریقت",
+          "phone": "44825110 - 44824039 - 09128600093",
+          "website": "",
+          "status": 1,
+          "lat": 35.77552,
+          "lon": 51.328548,
+          "restaurantClass": "",
+          "foodTypes": [],
+          "restaurantTypes": [],
+          "isFavorite": false,
+          "priority": 1000,
+          "city": "تهران",
+          "area": "المهدی",
+          "commentCount": 20089,
+          "recommendedFor": "",
+          "establishment": "RESTAURANT",
+          "mostPopularItems": "",
+          "costsForTwo": 146500,
+          "onlineOrder": true,
+          "voteCount": 20089,
+          "discountType": null,
+          "menuUrl": "https://snappfood.ir/restaurant/menu/3d5g1d/tarighat?superTypeAlias=RESTAURANT",
+          "discountValue": 0,
+          "discountForAll": false,
+          "containerFee": 0,
+          "deliveryGuarantee": true,
+          "badges": [],
+          "discountStartHour1": "",
+          "discountStopHour1": "",
+          "discountStartHour2": "",
+          "discountStopHour2": "",
+          "discountValueForView": 0,
+          "coverPath": "https://cdn.snappfood.ir/300x100/uploads/images/vendors/covers/5d6bc3e61e484.jpg",
+          "cuisinesArray": [
+            {
+              "id": 2,
+              "title": "ایرانی"
+            },
+            {
+              "id": 18,
+              "title": "ماهی"
+            }
+          ],
+          "preOrderEnabled": false,
+          "preorderToday": {
+            "weekday": "",
+            "name": "",
+            "startHour": "",
+            "intervals": null
+          },
+          "vendorType": "RESTAURANT",
+          "childType": "RESTAURANT",
+          "budgetClass": "مناسب",
+          "vendorTypeTitle": "رستوران",
+          "isZFExpress": false,
+          "deliveryFee": 5000,
+          "backgroundImage": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/5d6bc3e61e484.jpg",
+          "backgroundImageCustom": "https://cdn.snappfood.ir/w.x.h/uploads/images/vendors/covers/5d6bc3e61e484.jpg",
+          "has_coupon": false,
+          "coupon_count": 0,
+          "best_coupon": "",
+          "userImage": [
+            {
+              "id": 5160121,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/product-variation_image2/uploads/images/vendors/users/app/5f6659eab325c.jpg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/users/app/5f6659eab325c.jpg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "PRODUCT_IMAGE",
+              "userType": "ZOODFOOD"
+            },
+            {
+              "id": 5160122,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/product-variation_image2/uploads/images/vendors/users/app/5f6659eabfd06.jpg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/users/app/5f6659eabfd06.jpg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "PRODUCT_IMAGE",
+              "userType": "ZOODFOOD"
+            },
+            {
+              "id": 5160123,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/product-variation_image2/uploads/images/vendors/users/app/5f6659eac4e8b.jpg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/users/app/5f6659eac4e8b.jpg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "PRODUCT_IMAGE",
+              "userType": "ZOODFOOD"
+            },
+            {
+              "id": 5160124,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/product-variation_image2/uploads/images/vendors/users/app/5f6659eacb746.jpg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/users/app/5f6659eacb746.jpg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "PRODUCT_IMAGE",
+              "userType": "ZOODFOOD"
+            }
+          ],
+          "menuImage": [],
+          "countReview": 20089,
+          "countOfUserImages": 74,
+          "deliveryFeeDiscount": 0,
+          "trendingScore": -0.000096,
+          "delay": "",
+          "deliver": true,
+          "eta": -1,
+          "min_eta": -1,
+          "max_eta": -1,
+          "open_at_eta": false,
+          "action": "",
+          "has_delay": false,
+          "delay_time": 0,
+          "total_time": 0,
+          "bid": false,
+          "superTypeAlias": "RESTAURANT",
+          "is_food_party": false,
+          "is_market_party": false,
+          "click_id": null,
+          "cpc_campaign_hash": null,
+          "is_ecommerce": false,
+          "is_economical": false,
+          "is_grocery_vip": false,
+          "is_grocery_returnable": false,
+          "is_grocery_economic": false,
+          "status_title": "ACTIVE",
+          "status_text": "",
+          "status_description": ""
+        }
+      },
+      {
+        "type": "VENDOR",
+        "data": {
+          "id": 32906,
+          "vendorCode": "p6ovjo",
+          "noOrder": false,
+          "title": "رستوران کبابی کندو",
+          "description": "ایرانی ,کباب ,سنتی",
+          "rate": 4.3,
+          "rating": 8.558023415978,
+          "logo": "https://cdn.snappfood.ir/media/cache/vendor_logo/uploads/images/vendors/logos/5c3599c304c2b.jpg",
+          "defLogo": "https://cdn.snappfood.ir/media/cache/vendor_logo/uploads/images/vendors/logos/5c3599c304c2b.jpg",
+          "taxEnabled": false,
+          "taxIncluded": false,
+          "taxEnabledInProducts": false,
+          "taxEnabledInPackaging": false,
+          "taxEnabledInDeliveryFee": false,
+          "tax": 0,
+          "serviceFee": 0,
+          "deliveryArea": "",
+          "discount": 0,
+          "isOpen": true,
+          "minDeliveryFee": 0,
+          "maxDeliveryFee": 0,
+          "deliveryTime": 0,
+          "paymentTypes": [
+            1,
+            2
+          ],
+          "schedules": [
+            {
+              "type": 0,
+              "weekday": 1,
+              "allDay": false,
+              "startHour": "12:00",
+              "stopHour": "16:00"
+            },
+            {
+              "type": 0,
+              "weekday": 1,
+              "allDay": false,
+              "startHour": "20:00",
+              "stopHour": "23:00"
+            },
+            {
+              "type": 0,
+              "weekday": 2,
+              "allDay": false,
+              "startHour": "12:00",
+              "stopHour": "16:00"
+            },
+            {
+              "type": 0,
+              "weekday": 3,
+              "allDay": false,
+              "startHour": "12:00",
+              "stopHour": "16:00"
+            },
+            {
+              "type": 0,
+              "weekday": 4,
+              "allDay": false,
+              "startHour": "12:00",
+              "stopHour": "16:00"
+            },
+            {
+              "type": 0,
+              "weekday": 5,
+              "allDay": false,
+              "startHour": "12:00",
+              "stopHour": "16:00"
+            },
+            {
+              "type": 0,
+              "weekday": 6,
+              "allDay": false,
+              "startHour": "12:00",
+              "stopHour": "16:00"
+            },
+            {
+              "type": 0,
+              "weekday": 7,
+              "allDay": false,
+              "startHour": "12:00",
+              "stopHour": "16:00"
+            },
+            {
+              "type": 0,
+              "weekday": 2,
+              "allDay": false,
+              "startHour": "20:00",
+              "stopHour": "23:00"
+            },
+            {
+              "type": 0,
+              "weekday": 3,
+              "allDay": false,
+              "startHour": "20:00",
+              "stopHour": "23:00"
+            },
+            {
+              "type": 0,
+              "weekday": 4,
+              "allDay": false,
+              "startHour": "20:00",
+              "stopHour": "23:00"
+            },
+            {
+              "type": 0,
+              "weekday": 5,
+              "allDay": false,
+              "startHour": "20:00",
+              "stopHour": "23:00"
+            },
+            {
+              "type": 0,
+              "weekday": 6,
+              "allDay": false,
+              "startHour": "20:00",
+              "stopHour": "23:00"
+            },
+            {
+              "type": 0,
+              "weekday": 7,
+              "allDay": false,
+              "startHour": "20:00",
+              "stopHour": "23:00"
+            }
+          ],
+          "minOrder": 10000,
+          "address": "پونک، انتهای سردار جنگل شمالی، خیابان قاسم پور، نبش زنبق، پلاک 70، رستوران کندو.",
+          "phone": "44826913 - 44813012 - 44849234",
+          "website": "",
+          "status": 1,
+          "lat": 35.770743,
+          "lon": 51.328848,
+          "restaurantClass": "",
+          "foodTypes": [],
+          "restaurantTypes": [],
+          "isFavorite": false,
+          "priority": 1000,
+          "city": "تهران",
+          "area": "المهدی",
+          "commentCount": 11436,
+          "recommendedFor": "",
+          "establishment": "RESTAURANT",
+          "mostPopularItems": "",
+          "costsForTwo": 140500,
+          "onlineOrder": true,
+          "voteCount": 11436,
+          "discountType": null,
+          "menuUrl": "https://snappfood.ir/restaurant/menu/p6ovjo/kandoo?superTypeAlias=RESTAURANT",
+          "discountValue": 0,
+          "discountForAll": false,
+          "containerFee": 0,
+          "deliveryGuarantee": true,
+          "badges": [],
+          "discountStartHour1": "",
+          "discountStopHour1": "",
+          "discountStartHour2": "",
+          "discountStopHour2": "",
+          "discountValueForView": 25,
+          "coverPath": "https://cdn.snappfood.ir/300x100/uploads/images/vendors/covers/5d6bb078708b3.jpg",
+          "cuisinesArray": [
+            {
+              "id": 2,
+              "title": "ایرانی"
+            },
+            {
+              "id": 18,
+              "title": "ماهی"
+            },
+            {
+              "id": 26,
+              "title": "سنتی"
+            },
+            {
+              "id": 34,
+              "title": "منوی هفتگی"
+            }
+          ],
+          "preOrderEnabled": false,
+          "preorderToday": {
+            "weekday": "",
+            "name": "",
+            "startHour": "",
+            "intervals": null
+          },
+          "vendorType": "RESTAURANT",
+          "childType": "RESTAURANT",
+          "budgetClass": "مناسب",
+          "vendorTypeTitle": "رستوران",
+          "isZFExpress": false,
+          "deliveryFee": 2000,
+          "backgroundImage": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/5d6bb078708b3.jpg",
+          "backgroundImageCustom": "https://cdn.snappfood.ir/w.x.h/uploads/images/vendors/covers/5d6bb078708b3.jpg",
+          "has_coupon": false,
+          "coupon_count": 0,
+          "best_coupon": "",
+          "userImage": [
+            {
+              "id": 5549973,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/product-variation_image2/uploads/images/vendors/users/app/6000a13134a67.jpg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/users/app/6000a13134a67.jpg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "PRODUCT_IMAGE",
+              "userType": "ZOODFOOD"
+            },
+            {
+              "id": 5549974,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/product-variation_image2/uploads/images/vendors/users/app/6000a1313b30a.jpg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/users/app/6000a1313b30a.jpg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "PRODUCT_IMAGE",
+              "userType": "ZOODFOOD"
+            },
+            {
+              "id": 5549975,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/product-variation_image2/uploads/images/vendors/users/app/6000a131408f7.jpg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/users/app/6000a131408f7.jpg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "PRODUCT_IMAGE",
+              "userType": "ZOODFOOD"
+            },
+            {
+              "id": 5549976,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/product-variation_image2/uploads/images/vendors/users/app/6000a13145538.jpg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/users/app/6000a13145538.jpg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "PRODUCT_IMAGE",
+              "userType": "ZOODFOOD"
+            }
+          ],
+          "menuImage": [],
+          "countReview": 11436,
+          "countOfUserImages": 110,
+          "deliveryFeeDiscount": 0,
+          "trendingScore": 0.000041,
+          "delay": "",
+          "deliver": true,
+          "eta": -1,
+          "min_eta": -1,
+          "max_eta": -1,
+          "open_at_eta": false,
+          "action": "",
+          "has_delay": false,
+          "delay_time": 0,
+          "total_time": 0,
+          "bid": false,
+          "superTypeAlias": "RESTAURANT",
+          "is_food_party": true,
+          "is_market_party": true,
+          "click_id": null,
+          "cpc_campaign_hash": null,
+          "is_ecommerce": false,
+          "is_economical": false,
+          "is_grocery_vip": false,
+          "is_grocery_returnable": false,
+          "is_grocery_economic": false,
+          "status_title": "ACTIVE",
+          "status_text": "",
+          "status_description": ""
+        }
+      },
+      {
+        "type": "VENDOR",
+        "data": {
+          "id": 99170,
+          "vendorCode": "p5qrrj",
+          "noOrder": false,
+          "title": "غذای خانگی باکس",
+          "description": "صبحانه و میان‌وعده ,صبحانه ,سنتی ,مرغ ,پیش‌غذای ایرانی ,کباب",
+          "rate": 4.4,
+          "rating": 8.7494365908625,
+          "logo": "https://cdn.snappfood.ir/media/cache/vendor_logo/uploads/images/vendors/logos/6187f5e38e454.jpeg",
+          "defLogo": "https://cdn.snappfood.ir/media/cache/vendor_logo/uploads/images/vendors/logos/6187f5e38e454.jpeg",
+          "taxEnabled": false,
+          "taxIncluded": false,
+          "taxEnabledInProducts": false,
+          "taxEnabledInPackaging": false,
+          "taxEnabledInDeliveryFee": false,
+          "tax": 0,
+          "serviceFee": 0,
+          "deliveryArea": "",
+          "discount": 0,
+          "isOpen": true,
+          "minDeliveryFee": 0,
+          "maxDeliveryFee": 0,
+          "deliveryTime": 0,
+          "paymentTypes": [
+            1,
+            2
+          ],
+          "schedules": [
+            {
+              "type": 0,
+              "weekday": 1,
+              "allDay": false,
+              "startHour": "10:00",
+              "stopHour": "23:00"
+            },
+            {
+              "type": 0,
+              "weekday": 2,
+              "allDay": false,
+              "startHour": "10:00",
+              "stopHour": "23:00"
+            },
+            {
+              "type": 0,
+              "weekday": 3,
+              "allDay": false,
+              "startHour": "10:00",
+              "stopHour": "23:00"
+            },
+            {
+              "type": 0,
+              "weekday": 4,
+              "allDay": false,
+              "startHour": "10:00",
+              "stopHour": "23:00"
+            },
+            {
+              "type": 0,
+              "weekday": 5,
+              "allDay": false,
+              "startHour": "10:00",
+              "stopHour": "23:00"
+            },
+            {
+              "type": 0,
+              "weekday": 6,
+              "allDay": false,
+              "startHour": "10:00",
+              "stopHour": "23:00"
+            },
+            {
+              "type": 0,
+              "weekday": 7,
+              "allDay": false,
+              "startHour": "10:00",
+              "stopHour": "23:00"
+            }
+          ],
+          "minOrder": 20000,
+          "address": "سیمون بولیوار، خیابان اقبالپور، نبش خیابان دهم شرقی، پلاک 75، غذای خانگی باکس",
+          "phone": "44832307",
+          "website": "",
+          "status": 1,
+          "lat": 35.782797,
+          "lon": 51.333194,
+          "restaurantClass": "",
+          "foodTypes": [],
+          "restaurantTypes": [],
+          "isFavorite": false,
+          "priority": 1000,
+          "city": "تهران",
+          "area": "کوهسار",
+          "commentCount": 4701,
+          "recommendedFor": "",
+          "establishment": "CATERING",
+          "mostPopularItems": "",
+          "costsForTwo": 118000,
+          "onlineOrder": true,
+          "voteCount": 4701,
+          "discountType": null,
+          "menuUrl": "https://snappfood.ir/restaurant/menu/p5qrrj/box?superTypeAlias=RESTAURANT",
+          "discountValue": 0,
+          "discountForAll": false,
+          "containerFee": 0,
+          "deliveryGuarantee": false,
+          "badges": [
+            {
+              "title": "ارسال با اسنپ فود",
+              "description": "سفارش شما از این رستوران با اسنپ‌اکسپرس، سریع‌تر به دست شما می‌رسد",
+              "image": "https://static.zoodfood.com/bundles/bodofoodfrontend/images/vendor/express-badge-png.png",
+              "white_image": "https://static.zoodfood.com/bundles/bodofoodfrontend/images/vendor/header/express.png"
+            }
+          ],
+          "discountStartHour1": "",
+          "discountStopHour1": "",
+          "discountStartHour2": "",
+          "discountStopHour2": "",
+          "discountValueForView": 10,
+          "coverPath": "",
+          "cuisinesArray": [
+            {
+              "id": 2,
+              "title": "ایرانی"
+            },
+            {
+              "id": 7,
+              "title": "تهیه غذا و کترینگ"
+            },
+            {
+              "id": 25,
+              "title": "صبحانه"
+            }
+          ],
+          "preOrderEnabled": false,
+          "preorderToday": {
+            "weekday": "",
+            "name": "",
+            "startHour": "",
+            "intervals": null
+          },
+          "vendorType": "RESTAURANT",
+          "childType": "RESTAURANT",
+          "budgetClass": "مناسب",
+          "vendorTypeTitle": "رستوران",
+          "isZFExpress": true,
+          "deliveryFee": 5500,
+          "backgroundImage": "https://cdn.snappfood.ir/uploads/images/vendor-cover-app-review/2/13.jpg",
+          "backgroundImageCustom": "https://cdn.snappfood.ir/w.x.h/uploads/images/vendor-cover-app-review/2/13.jpg",
+          "has_coupon": false,
+          "coupon_count": 0,
+          "best_coupon": "",
+          "userImage": [
+            {
+              "id": 15062812,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/product-variation_image2/uploads/images/vendors/users/app/62b173f113853.jpg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/users/app/62b173f113853.jpg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "PRODUCT_IMAGE",
+              "userType": "ZOODFOOD"
+            },
+            {
+              "id": 15062813,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/product-variation_image2/uploads/images/vendors/users/app/62b173f127b00.jpg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/users/app/62b173f127b00.jpg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "PRODUCT_IMAGE",
+              "userType": "ZOODFOOD"
+            },
+            {
+              "id": 15062814,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/product-variation_image2/uploads/images/vendors/users/app/62b173f14e7c5.jpg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/users/app/62b173f14e7c5.jpg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "PRODUCT_IMAGE",
+              "userType": "ZOODFOOD"
+            },
+            {
+              "id": 15062815,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/product-variation_image2/uploads/images/vendors/users/app/62b173f1823f0.jpg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/users/app/62b173f1823f0.jpg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "PRODUCT_IMAGE",
+              "userType": "ZOODFOOD"
+            }
+          ],
+          "menuImage": [],
+          "countReview": 4701,
+          "countOfUserImages": 77,
+          "deliveryFeeDiscount": 0,
+          "trendingScore": -1,
+          "delay": "",
+          "deliver": true,
+          "eta": -1,
+          "min_eta": -1,
+          "max_eta": -1,
+          "open_at_eta": false,
+          "action": "",
+          "has_delay": false,
+          "delay_time": 0,
+          "total_time": 0,
+          "bid": false,
+          "superTypeAlias": "RESTAURANT",
+          "is_food_party": false,
+          "is_market_party": false,
+          "click_id": null,
+          "cpc_campaign_hash": null,
+          "is_ecommerce": false,
+          "is_economical": false,
+          "is_grocery_vip": false,
+          "is_grocery_returnable": false,
+          "is_grocery_economic": false,
+          "status_title": "ACTIVE",
+          "status_text": "",
+          "status_description": ""
+        }
+      },
+      {
+        "type": "VENDOR",
+        "data": {
+          "id": 59717,
+          "vendorCode": "3eqzd2",
+          "noOrder": false,
+          "title": "ته چین بار (فودکورت اپال)",
+          "description": "ایرانی ,سنتی ,پیش‌غذای ایرانی ,نوشیدنی سرد و بستنی",
+          "rate": 4.3,
+          "rating": 8.5013774104683,
+          "logo": "https://cdn.snappfood.ir/media/cache/vendor_logo/uploads/images/vendors/logos/5f311e11a1141.JPG",
+          "defLogo": "https://cdn.snappfood.ir/media/cache/vendor_logo/uploads/images/vendors/logos/5f311e11a1141.JPG",
+          "taxEnabled": false,
+          "taxIncluded": false,
+          "taxEnabledInProducts": false,
+          "taxEnabledInPackaging": false,
+          "taxEnabledInDeliveryFee": false,
+          "tax": 0,
+          "serviceFee": 0,
+          "deliveryArea": "",
+          "discount": 0,
+          "isOpen": true,
+          "minDeliveryFee": 0,
+          "maxDeliveryFee": 0,
+          "deliveryTime": 0,
+          "paymentTypes": [
+            1,
+            2
+          ],
+          "schedules": [
+            {
+              "type": 0,
+              "weekday": 1,
+              "allDay": false,
+              "startHour": "11:30",
+              "stopHour": "22:30"
+            },
+            {
+              "type": 0,
+              "weekday": 2,
+              "allDay": false,
+              "startHour": "11:30",
+              "stopHour": "22:30"
+            },
+            {
+              "type": 0,
+              "weekday": 3,
+              "allDay": false,
+              "startHour": "11:30",
+              "stopHour": "22:30"
+            },
+            {
+              "type": 0,
+              "weekday": 4,
+              "allDay": false,
+              "startHour": "11:30",
+              "stopHour": "22:30"
+            },
+            {
+              "type": 0,
+              "weekday": 5,
+              "allDay": false,
+              "startHour": "11:30",
+              "stopHour": "22:30"
+            },
+            {
+              "type": 0,
+              "weekday": 6,
+              "allDay": false,
+              "startHour": "11:30",
+              "stopHour": "22:30"
+            },
+            {
+              "type": 0,
+              "weekday": 7,
+              "allDay": false,
+              "startHour": "11:30",
+              "stopHour": "22:30"
+            }
+          ],
+          "minOrder": 52000,
+          "address": "سعادت آباد میدان کتاب بلوار کوهستان مرکز خرید تجاری اپال طبقه 9 فودکورت، ته چین بار (فودکورت اپال)",
+          "phone": "26350867",
+          "website": "",
+          "status": 1,
+          "lat": 35.777053,
+          "lon": 51.351128,
+          "restaurantClass": "",
+          "foodTypes": [],
+          "restaurantTypes": [],
+          "isFavorite": false,
+          "priority": 1000,
+          "city": "تهران",
+          "area": "آسمان",
+          "commentCount": 4539,
+          "recommendedFor": "",
+          "establishment": "FOODCOURT",
+          "mostPopularItems": "",
+          "costsForTwo": 157000,
+          "onlineOrder": true,
+          "voteCount": 4539,
+          "discountType": null,
+          "menuUrl": "https://snappfood.ir/restaurant/menu/3eqzd2/tahchinbar?superTypeAlias=RESTAURANT",
+          "discountValue": 0,
+          "discountForAll": false,
+          "containerFee": 0,
+          "deliveryGuarantee": false,
+          "badges": [
+            {
+              "title": "ارسال با اسنپ فود",
+              "description": "سفارش شما از این رستوران با اسنپ‌اکسپرس، سریع‌تر به دست شما می‌رسد",
+              "image": "https://static.zoodfood.com/bundles/bodofoodfrontend/images/vendor/express-badge-png.png",
+              "white_image": "https://static.zoodfood.com/bundles/bodofoodfrontend/images/vendor/header/express.png"
+            }
+          ],
+          "discountStartHour1": "",
+          "discountStopHour1": "",
+          "discountStartHour2": "",
+          "discountStopHour2": "",
+          "discountValueForView": 0,
+          "coverPath": "https://cdn.snappfood.ir/300x100/uploads/images/vendors/covers/602e3120b3ded.jpg",
+          "cuisinesArray": [
+            {
+              "id": 2,
+              "title": "ایرانی"
+            }
+          ],
+          "preOrderEnabled": false,
+          "preorderToday": {
+            "weekday": "",
+            "name": "",
+            "startHour": "",
+            "intervals": null
+          },
+          "vendorType": "RESTAURANT",
+          "childType": "RESTAURANT",
+          "budgetClass": "مناسب",
+          "vendorTypeTitle": "رستوران",
+          "isZFExpress": true,
+          "deliveryFee": 8500,
+          "backgroundImage": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/602e3120b3ded.jpg",
+          "backgroundImageCustom": "https://cdn.snappfood.ir/w.x.h/uploads/images/vendors/covers/602e3120b3ded.jpg",
+          "has_coupon": true,
+          "coupon_count": 1,
+          "best_coupon": "5٪ تخفیف مخصوص سفارش اول",
+          "userImage": [
+            {
+              "id": 6853683,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/product-variation_image2/uploads/images/vendors/users/app/6118eeb9c7c6f.jpg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/users/app/6118eeb9c7c6f.jpg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "PRODUCT_IMAGE",
+              "userType": "ZOODFOOD"
+            },
+            {
+              "id": 6853684,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/product-variation_image2/uploads/images/vendors/users/app/6118eeb9cbcbb.jpg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/users/app/6118eeb9cbcbb.jpg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "PRODUCT_IMAGE",
+              "userType": "ZOODFOOD"
+            },
+            {
+              "id": 6853685,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/product-variation_image2/uploads/images/vendors/users/app/6118eeb9d0dc2.jpg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/users/app/6118eeb9d0dc2.jpg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "PRODUCT_IMAGE",
+              "userType": "ZOODFOOD"
+            },
+            {
+              "id": 6853686,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/product-variation_image2/uploads/images/vendors/users/app/6118eeb9d4902.jpg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/users/app/6118eeb9d4902.jpg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "PRODUCT_IMAGE",
+              "userType": "ZOODFOOD"
+            }
+          ],
+          "menuImage": [],
+          "countReview": 4539,
+          "countOfUserImages": 31,
+          "deliveryFeeDiscount": 0,
+          "trendingScore": -0.00002,
+          "delay": "",
+          "deliver": true,
+          "eta": -1,
+          "min_eta": -1,
+          "max_eta": -1,
+          "open_at_eta": false,
+          "action": "",
+          "has_delay": false,
+          "delay_time": 0,
+          "total_time": 0,
+          "bid": false,
+          "superTypeAlias": "RESTAURANT",
+          "is_food_party": false,
+          "is_market_party": false,
+          "click_id": null,
+          "cpc_campaign_hash": null,
+          "is_ecommerce": false,
+          "is_economical": false,
+          "is_grocery_vip": false,
+          "is_grocery_returnable": false,
+          "is_grocery_economic": false,
+          "status_title": "ACTIVE",
+          "status_text": "",
+          "status_description": ""
+        }
+      },
+      {
+        "type": "VENDOR",
+        "data": {
+          "id": 12653,
+          "vendorCode": "pvd61p",
+          "noOrder": false,
+          "title": "باروژ (سردار جنگل)",
+          "description": "فست‌فود ,پیتزا ,پیش غذا ,برگر ,سس همراه غذا",
+          "rate": 4,
+          "rating": 8.0746372003116,
+          "logo": "https://cdn.snappfood.ir/media/cache/vendor_logo/uploads/images/vendors/logos/5e97026dda8e8.PNG",
+          "defLogo": "https://cdn.snappfood.ir/media/cache/vendor_logo/uploads/images/vendors/logos/5e97026dda8e8.PNG",
+          "taxEnabled": true,
+          "taxIncluded": false,
+          "taxEnabledInProducts": true,
+          "taxEnabledInPackaging": true,
+          "taxEnabledInDeliveryFee": true,
+          "tax": 9,
+          "serviceFee": 2000,
+          "deliveryArea": "سردارجنگل; پونک; جنت آباد; شاهین; کبیری طامه; آبشناسان; ایران پارس; باغ فیض; شهران; کن; اشرفی اصفهانی; عدل;",
+          "discount": 0,
+          "isOpen": true,
+          "minDeliveryFee": 0,
+          "maxDeliveryFee": 0,
+          "deliveryTime": 0,
+          "paymentTypes": [
+            1,
+            2
+          ],
+          "schedules": [
+            {
+              "type": 0,
+              "weekday": 1,
+              "allDay": false,
+              "startHour": "11:00",
+              "stopHour": "23:44"
+            },
+            {
+              "type": 0,
+              "weekday": 7,
+              "allDay": false,
+              "startHour": "00:00",
+              "stopHour": "00:30"
+            },
+            {
+              "type": 0,
+              "weekday": 2,
+              "allDay": false,
+              "startHour": "11:00",
+              "stopHour": "23:44"
+            },
+            {
+              "type": 0,
+              "weekday": 3,
+              "allDay": false,
+              "startHour": "11:00",
+              "stopHour": "23:44"
+            },
+            {
+              "type": 0,
+              "weekday": 4,
+              "allDay": false,
+              "startHour": "11:00",
+              "stopHour": "23:44"
+            },
+            {
+              "type": 0,
+              "weekday": 5,
+              "allDay": false,
+              "startHour": "11:00",
+              "stopHour": "23:44"
+            },
+            {
+              "type": 0,
+              "weekday": 6,
+              "allDay": false,
+              "startHour": "11:00",
+              "stopHour": "23:59"
+            },
+            {
+              "type": 0,
+              "weekday": 7,
+              "allDay": false,
+              "startHour": "11:00",
+              "stopHour": "23:44"
+            }
+          ],
+          "minOrder": 90000,
+          "address": "بلوار عدل شمالی، نرسیده به خیابان بهار شرقی، برج مینیاتور، باروژ (سردارجنگل)",
+          "phone": "1813",
+          "website": "",
+          "status": 1,
+          "lat": 35.764296,
+          "lon": 51.332277,
+          "restaurantClass": "",
+          "foodTypes": [],
+          "restaurantTypes": [],
+          "isFavorite": false,
+          "priority": 33,
+          "city": "تهران",
+          "area": "پونک شمالی",
+          "commentCount": 34481,
+          "recommendedFor": "",
+          "establishment": "FASTFOOD",
+          "mostPopularItems": "",
+          "costsForTwo": 88000,
+          "onlineOrder": true,
+          "voteCount": 34481,
+          "discountType": null,
+          "menuUrl": "https://snappfood.ir/restaurant/menu/pvd61p/barooj?superTypeAlias=RESTAURANT",
+          "discountValue": 0,
+          "discountForAll": false,
+          "containerFee": 0,
+          "deliveryGuarantee": true,
+          "badges": [],
+          "discountStartHour1": "",
+          "discountStopHour1": "",
+          "discountStartHour2": "",
+          "discountStopHour2": "",
+          "discountValueForView": 0,
+          "coverPath": "https://cdn.snappfood.ir/300x100/uploads/images/vendors/covers/5e8f47a62be2c.jpg",
+          "cuisinesArray": [
+            {
+              "id": 4,
+              "title": "پیتزا"
+            },
+            {
+              "id": 9,
+              "title": "برگر"
+            },
+            {
+              "id": 11,
+              "title": "فست فود"
+            },
+            {
+              "id": 36,
+              "title": "سالاد"
+            }
+          ],
+          "preOrderEnabled": false,
+          "preorderToday": {
+            "weekday": "",
+            "name": "",
+            "startHour": "",
+            "intervals": null
+          },
+          "vendorType": "RESTAURANT",
+          "childType": "RESTAURANT",
+          "budgetClass": "مناسب",
+          "vendorTypeTitle": "رستوران",
+          "isZFExpress": false,
+          "deliveryFee": 10500,
+          "backgroundImage": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/5e8f47a62be2c.jpg",
+          "backgroundImageCustom": "https://cdn.snappfood.ir/w.x.h/uploads/images/vendors/covers/5e8f47a62be2c.jpg",
+          "has_coupon": false,
+          "coupon_count": 0,
+          "best_coupon": "",
+          "userImage": [
+            {
+              "id": 3663860,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/vendor_user_app_image2/uploads/images/vendors/pvd61p-1.png",
+              "thumbNailSource": "https://cdn.snappfood.ir/media/cache/vendor_user_app_image_thumbnail/uploads/images/vendors/pvd61p-1.png",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "MENU_CAPTURE_IMAGE",
+              "userType": "ZOODFOOD"
+            },
+            {
+              "id": 3663861,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/vendor_user_app_image2/uploads/images/vendors/pvd61p-2.png",
+              "thumbNailSource": "https://cdn.snappfood.ir/media/cache/vendor_user_app_image_thumbnail/uploads/images/vendors/pvd61p-2.png",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "MENU_CAPTURE_IMAGE",
+              "userType": "ZOODFOOD"
+            },
+            {
+              "id": 3663862,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/vendor_user_app_image2/uploads/images/vendors/pvd61p-3.png",
+              "thumbNailSource": "https://cdn.snappfood.ir/media/cache/vendor_user_app_image_thumbnail/uploads/images/vendors/pvd61p-3.png",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "MENU_CAPTURE_IMAGE",
+              "userType": "ZOODFOOD"
+            },
+            {
+              "id": 3663863,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/vendor_user_app_image2/uploads/images/vendors/pvd61p-4.png",
+              "thumbNailSource": "https://cdn.snappfood.ir/media/cache/vendor_user_app_image_thumbnail/uploads/images/vendors/pvd61p-4.png",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "MENU_CAPTURE_IMAGE",
+              "userType": "ZOODFOOD"
+            }
+          ],
+          "menuImage": [],
+          "countReview": 34481,
+          "countOfUserImages": 251,
+          "deliveryFeeDiscount": 0,
+          "trendingScore": -0.000174,
+          "delay": "",
+          "deliver": true,
+          "eta": -1,
+          "min_eta": -1,
+          "max_eta": -1,
+          "open_at_eta": false,
+          "action": "",
+          "has_delay": false,
+          "delay_time": 0,
+          "total_time": 0,
+          "bid": false,
+          "superTypeAlias": "RESTAURANT",
+          "is_food_party": false,
+          "is_market_party": false,
+          "click_id": null,
+          "cpc_campaign_hash": null,
+          "is_ecommerce": false,
+          "is_economical": false,
+          "is_grocery_vip": false,
+          "is_grocery_returnable": false,
+          "is_grocery_economic": false,
+          "status_title": "ACTIVE",
+          "status_text": "",
+          "status_description": ""
+        }
+      },
+      {
+        "type": "VENDOR",
+        "data": {
+          "id": 34234,
+          "vendorCode": "pze5oo",
+          "noOrder": false,
+          "title": "آش و حلیم حاج مهدی",
+          "description": "ایرانی ,سنتی ,پیش غذا",
+          "rate": 4.3,
+          "rating": 8.6877169780129,
+          "logo": "https://cdn.snappfood.ir/media/cache/vendor_logo/uploads/images/vendors/logos/5cecfb4b41297.jpg",
+          "defLogo": "https://cdn.snappfood.ir/media/cache/vendor_logo/uploads/images/vendors/logos/5cecfb4b41297.jpg",
+          "taxEnabled": false,
+          "taxIncluded": false,
+          "taxEnabledInProducts": false,
+          "taxEnabledInPackaging": false,
+          "taxEnabledInDeliveryFee": false,
+          "tax": 0,
+          "serviceFee": 0,
+          "deliveryArea": "",
+          "discount": 0,
+          "isOpen": true,
+          "minDeliveryFee": 0,
+          "maxDeliveryFee": 0,
+          "deliveryTime": 0,
+          "paymentTypes": [
+            1,
+            2
+          ],
+          "schedules": [
+            {
+              "type": 0,
+              "weekday": 1,
+              "allDay": false,
+              "startHour": "07:30",
+              "stopHour": "23:45"
+            },
+            {
+              "type": 0,
+              "weekday": 2,
+              "allDay": false,
+              "startHour": "07:30",
+              "stopHour": "23:45"
+            },
+            {
+              "type": 0,
+              "weekday": 3,
+              "allDay": false,
+              "startHour": "07:30",
+              "stopHour": "23:45"
+            },
+            {
+              "type": 0,
+              "weekday": 4,
+              "allDay": false,
+              "startHour": "07:30",
+              "stopHour": "23:45"
+            },
+            {
+              "type": 0,
+              "weekday": 5,
+              "allDay": false,
+              "startHour": "07:30",
+              "stopHour": "23:45"
+            },
+            {
+              "type": 0,
+              "weekday": 6,
+              "allDay": false,
+              "startHour": "07:30",
+              "stopHour": "23:45"
+            },
+            {
+              "type": 0,
+              "weekday": 7,
+              "allDay": false,
+              "startHour": "07:30",
+              "stopHour": "23:45"
+            }
+          ],
+          "minOrder": 45000,
+          "address": "بالاتر از میدان پونک، نبش بلوار امام حسن، پلاک 325، آش و حلیم حاج مهدی",
+          "phone": "44476705 - 44469460 - 44476706",
+          "website": "",
+          "status": 1,
+          "lat": 35.76326,
+          "lon": 51.336799,
+          "restaurantClass": "",
+          "foodTypes": [],
+          "restaurantTypes": [],
+          "isFavorite": false,
+          "priority": 1000,
+          "city": "تهران",
+          "area": "پونک",
+          "commentCount": 11918,
+          "recommendedFor": "",
+          "establishment": "RESTAURANT",
+          "mostPopularItems": "",
+          "costsForTwo": 168500,
+          "onlineOrder": true,
+          "voteCount": 11918,
+          "discountType": null,
+          "menuUrl": "https://snappfood.ir/restaurant/menu/pze5oo/hajmehdi?superTypeAlias=RESTAURANT",
+          "discountValue": 0,
+          "discountForAll": false,
+          "containerFee": 0,
+          "deliveryGuarantee": true,
+          "badges": [
+            {
+              "title": "ارسال با اسنپ فود",
+              "description": "سفارش شما از این رستوران با اسنپ‌اکسپرس، سریع‌تر به دست شما می‌رسد",
+              "image": "https://static.zoodfood.com/bundles/bodofoodfrontend/images/vendor/express-badge-png.png",
+              "white_image": "https://static.zoodfood.com/bundles/bodofoodfrontend/images/vendor/header/express.png"
+            }
+          ],
+          "discountStartHour1": "",
+          "discountStopHour1": "",
+          "discountStartHour2": "",
+          "discountStopHour2": "",
+          "discountValueForView": 0,
+          "coverPath": "https://cdn.snappfood.ir/300x100/uploads/images/vendors/covers/5d6bbbc76117f.jpg",
+          "cuisinesArray": [
+            {
+              "id": 2,
+              "title": "ایرانی"
+            },
+            {
+              "id": 25,
+              "title": "صبحانه"
+            },
+            {
+              "id": 26,
+              "title": "سنتی"
+            },
+            {
+              "id": 37,
+              "title": "گیاهی"
+            }
+          ],
+          "preOrderEnabled": false,
+          "preorderToday": {
+            "weekday": "",
+            "name": "",
+            "startHour": "",
+            "intervals": null
+          },
+          "vendorType": "RESTAURANT",
+          "childType": "RESTAURANT",
+          "budgetClass": "مناسب",
+          "vendorTypeTitle": "رستوران",
+          "isZFExpress": true,
+          "deliveryFee": 5500,
+          "backgroundImage": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/5d6bbbc76117f.jpg",
+          "backgroundImageCustom": "https://cdn.snappfood.ir/w.x.h/uploads/images/vendors/covers/5d6bbbc76117f.jpg",
+          "has_coupon": false,
+          "coupon_count": 0,
+          "best_coupon": "",
+          "userImage": [
+            {
+              "id": 3872371,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/product-variation_image2/uploads/images/vendors/users/app/5cc6a4ea2fd43.jpg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/users/app/5cc6a4ea2fd43.jpg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "PRODUCT_IMAGE",
+              "userType": "ZOODFOOD"
+            },
+            {
+              "id": 3870144,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/product-variation_image2/uploads/images/vendors/users/app/5cc4a854449b9.jpg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/users/app/5cc4a854449b9.jpg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "PRODUCT_IMAGE",
+              "userType": "ZOODFOOD"
+            },
+            {
+              "id": 3870145,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/product-variation_image2/uploads/images/vendors/users/app/5cc4a8546fd45.jpg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/users/app/5cc4a8546fd45.jpg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "PRODUCT_IMAGE",
+              "userType": "ZOODFOOD"
+            },
+            {
+              "id": 3870147,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/product-variation_image2/uploads/images/vendors/users/app/5cc4a854d0d79.jpg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/users/app/5cc4a854d0d79.jpg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "PRODUCT_IMAGE",
+              "userType": "ZOODFOOD"
+            }
+          ],
+          "menuImage": [],
+          "countReview": 11918,
+          "countOfUserImages": 40,
+          "deliveryFeeDiscount": 0,
+          "trendingScore": -0.000023,
+          "delay": "",
+          "deliver": true,
+          "eta": -1,
+          "min_eta": -1,
+          "max_eta": -1,
+          "open_at_eta": false,
+          "action": "",
+          "has_delay": false,
+          "delay_time": 0,
+          "total_time": 0,
+          "bid": false,
+          "superTypeAlias": "RESTAURANT",
+          "is_food_party": false,
+          "is_market_party": false,
+          "click_id": null,
+          "cpc_campaign_hash": null,
+          "is_ecommerce": false,
+          "is_economical": false,
+          "is_grocery_vip": false,
+          "is_grocery_returnable": false,
+          "is_grocery_economic": false,
+          "status_title": "ACTIVE",
+          "status_text": "",
+          "status_description": ""
+        }
+      },
+      {
+        "type": "VENDOR",
+        "data": {
+          "id": 28536,
+          "vendorCode": "poz9wq",
+          "noOrder": false,
+          "title": "اصلان",
+          "description": "ایرانی ,کباب ,پیش‌غذای ایرانی",
+          "rate": 4.1,
+          "rating": 8.2461708802362,
+          "logo": "https://cdn.snappfood.ir/media/cache/vendor_logo/uploads/images/vendors/logos/5b72be408eeed.jpg",
+          "defLogo": "https://cdn.snappfood.ir/media/cache/vendor_logo/uploads/images/vendors/logos/5b72be408eeed.jpg",
+          "taxEnabled": false,
+          "taxIncluded": false,
+          "taxEnabledInProducts": false,
+          "taxEnabledInPackaging": false,
+          "taxEnabledInDeliveryFee": false,
+          "tax": 0,
+          "serviceFee": 0,
+          "deliveryArea": "عدل; پونک; سردار جنگل; همیلا; شاهین; اشرفی اصفهانی; جنت آباد; سیمون بولیوار; چهاردیواری; شهرک نفت; فرحزاد;",
+          "discount": 0,
+          "isOpen": true,
+          "minDeliveryFee": 0,
+          "maxDeliveryFee": 0,
+          "deliveryTime": 0,
+          "paymentTypes": [
+            1,
+            2,
+            3
+          ],
+          "schedules": [
+            {
+              "type": 0,
+              "weekday": 1,
+              "allDay": false,
+              "startHour": "11:30",
+              "stopHour": "17:30"
+            },
+            {
+              "type": 0,
+              "weekday": 1,
+              "allDay": false,
+              "startHour": "19:30",
+              "stopHour": "23:30"
+            },
+            {
+              "type": 0,
+              "weekday": 2,
+              "allDay": false,
+              "startHour": "11:30",
+              "stopHour": "17:30"
+            },
+            {
+              "type": 0,
+              "weekday": 3,
+              "allDay": false,
+              "startHour": "11:30",
+              "stopHour": "17:30"
+            },
+            {
+              "type": 0,
+              "weekday": 4,
+              "allDay": false,
+              "startHour": "11:30",
+              "stopHour": "17:30"
+            },
+            {
+              "type": 0,
+              "weekday": 5,
+              "allDay": false,
+              "startHour": "11:30",
+              "stopHour": "17:30"
+            },
+            {
+              "type": 0,
+              "weekday": 6,
+              "allDay": false,
+              "startHour": "11:30",
+              "stopHour": "23:30"
+            },
+            {
+              "type": 0,
+              "weekday": 7,
+              "allDay": false,
+              "startHour": "11:30",
+              "stopHour": "23:30"
+            },
+            {
+              "type": 0,
+              "weekday": 2,
+              "allDay": false,
+              "startHour": "19:30",
+              "stopHour": "23:30"
+            },
+            {
+              "type": 0,
+              "weekday": 3,
+              "allDay": false,
+              "startHour": "19:30",
+              "stopHour": "23:30"
+            },
+            {
+              "type": 0,
+              "weekday": 4,
+              "allDay": false,
+              "startHour": "19:30",
+              "stopHour": "23:30"
+            },
+            {
+              "type": 0,
+              "weekday": 5,
+              "allDay": false,
+              "startHour": "19:30",
+              "stopHour": "23:30"
+            }
+          ],
+          "minOrder": 30000,
+          "address": "پونک، عدل شمالی، جنب نیایش، پلاک 59، اصلان",
+          "phone": "46019815",
+          "website": "",
+          "status": 1,
+          "lat": 35.769273,
+          "lon": 51.332696,
+          "restaurantClass": "",
+          "foodTypes": [],
+          "restaurantTypes": [],
+          "isFavorite": false,
+          "priority": 1000,
+          "city": "تهران",
+          "area": "پونک شمالی",
+          "commentCount": 5239,
+          "recommendedFor": "",
+          "establishment": "RESTAURANT",
+          "mostPopularItems": "",
+          "costsForTwo": 155000,
+          "onlineOrder": true,
+          "voteCount": 5239,
+          "discountType": null,
+          "menuUrl": "https://snappfood.ir/restaurant/menu/poz9wq/aslan?superTypeAlias=RESTAURANT",
+          "discountValue": 0,
+          "discountForAll": false,
+          "containerFee": 0,
+          "deliveryGuarantee": true,
+          "badges": [
+            {
+              "title": "ارسال با اسنپ فود",
+              "description": "سفارش شما از این رستوران با اسنپ‌اکسپرس، سریع‌تر به دست شما می‌رسد",
+              "image": "https://static.zoodfood.com/bundles/bodofoodfrontend/images/vendor/express-badge-png.png",
+              "white_image": "https://static.zoodfood.com/bundles/bodofoodfrontend/images/vendor/header/express.png"
+            }
+          ],
+          "discountStartHour1": "",
+          "discountStopHour1": "",
+          "discountStartHour2": "",
+          "discountStopHour2": "",
+          "discountValueForView": 0,
+          "coverPath": "https://cdn.snappfood.ir/300x100/uploads/images/vendors/covers/5d6caf4b5748e.jpg",
+          "cuisinesArray": [
+            {
+              "id": 2,
+              "title": "ایرانی"
+            },
+            {
+              "id": 26,
+              "title": "سنتی"
+            },
+            {
+              "id": 36,
+              "title": "سالاد"
+            }
+          ],
+          "preOrderEnabled": false,
+          "preorderToday": {
+            "weekday": "",
+            "name": "",
+            "startHour": "",
+            "intervals": null
+          },
+          "vendorType": "RESTAURANT",
+          "childType": "RESTAURANT",
+          "budgetClass": "مناسب",
+          "vendorTypeTitle": "رستوران",
+          "isZFExpress": true,
+          "deliveryFee": 5000,
+          "backgroundImage": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/5d6caf4b5748e.jpg",
+          "backgroundImageCustom": "https://cdn.snappfood.ir/w.x.h/uploads/images/vendors/covers/5d6caf4b5748e.jpg",
+          "has_coupon": true,
+          "coupon_count": 3,
+          "best_coupon": "ماست موسیر رایگان مخصوص سفارش اول",
+          "userImage": [
+            {
+              "id": 5268396,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/product-variation_image2/uploads/images/vendors/users/app/5fa925807285f.jpg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/users/app/5fa925807285f.jpg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "PRODUCT_IMAGE",
+              "userType": "ZOODFOOD"
+            },
+            {
+              "id": 5268397,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/product-variation_image2/uploads/images/vendors/users/app/5fa925807c6db.jpg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/users/app/5fa925807c6db.jpg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "PRODUCT_IMAGE",
+              "userType": "ZOODFOOD"
+            },
+            {
+              "id": 4528352,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/product-variation_image2/uploads/images/vendors/users/app/5e61569a41ad6.jpg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/users/app/5e61569a41ad6.jpg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "PRODUCT_IMAGE",
+              "userType": "ZOODFOOD"
+            },
+            {
+              "id": 4528353,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/product-variation_image2/uploads/images/vendors/users/app/5e61569a4a608.jpg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/users/app/5e61569a4a608.jpg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "PRODUCT_IMAGE",
+              "userType": "ZOODFOOD"
+            }
+          ],
+          "menuImage": [],
+          "countReview": 5239,
+          "countOfUserImages": 96,
+          "deliveryFeeDiscount": 0,
+          "trendingScore": -0.000021,
+          "delay": "",
+          "deliver": true,
+          "eta": -1,
+          "min_eta": -1,
+          "max_eta": -1,
+          "open_at_eta": false,
+          "action": "",
+          "has_delay": false,
+          "delay_time": 0,
+          "total_time": 0,
+          "bid": false,
+          "superTypeAlias": "RESTAURANT",
+          "is_food_party": false,
+          "is_market_party": false,
+          "click_id": null,
+          "cpc_campaign_hash": null,
+          "is_ecommerce": false,
+          "is_economical": false,
+          "is_grocery_vip": false,
+          "is_grocery_returnable": false,
+          "is_grocery_economic": false,
+          "status_title": "ACTIVE",
+          "status_text": "",
+          "status_description": ""
+        }
+      },
+      {
+        "type": "VENDOR",
+        "data": {
+          "id": 43426,
+          "vendorCode": "09wwlq",
+          "noOrder": false,
+          "title": "نان و شیرینی ماری",
+          "description": "",
+          "rate": 4.5,
+          "rating": 8.9669725401244,
+          "logo": "https://cdn.snappfood.ir/media/cache/vendor_logo/uploads/images/vendors/logos/5d1370033d5b7.png",
+          "defLogo": "https://cdn.snappfood.ir/media/cache/vendor_logo/uploads/images/vendors/logos/5d1370033d5b7.png",
+          "taxEnabled": false,
+          "taxIncluded": false,
+          "taxEnabledInProducts": false,
+          "taxEnabledInPackaging": false,
+          "taxEnabledInDeliveryFee": false,
+          "tax": 0,
+          "serviceFee": 0,
+          "deliveryArea": "",
+          "discount": 0,
+          "isOpen": true,
+          "minDeliveryFee": 0,
+          "maxDeliveryFee": 0,
+          "deliveryTime": 0,
+          "paymentTypes": [
+            1,
+            2,
+            3
+          ],
+          "schedules": [
+            {
+              "type": 0,
+              "weekday": 1,
+              "allDay": false,
+              "startHour": "07:45",
+              "stopHour": "22:00"
+            },
+            {
+              "type": 0,
+              "weekday": 2,
+              "allDay": false,
+              "startHour": "07:45",
+              "stopHour": "22:00"
+            },
+            {
+              "type": 0,
+              "weekday": 3,
+              "allDay": false,
+              "startHour": "07:45",
+              "stopHour": "22:00"
+            },
+            {
+              "type": 0,
+              "weekday": 4,
+              "allDay": false,
+              "startHour": "07:45",
+              "stopHour": "22:00"
+            },
+            {
+              "type": 0,
+              "weekday": 5,
+              "allDay": false,
+              "startHour": "07:45",
+              "stopHour": "22:00"
+            },
+            {
+              "type": 0,
+              "weekday": 6,
+              "allDay": false,
+              "startHour": "07:45",
+              "stopHour": "22:00"
+            },
+            {
+              "type": 0,
+              "weekday": 7,
+              "allDay": false,
+              "startHour": "07:45",
+              "stopHour": "22:00"
+            }
+          ],
+          "minOrder": 30000,
+          "address": "میدان پونک، خیابان میرزا بابایی، بلوار عدل، به سمت شمال، نرسیده به خیابان بهار، نان و شیرینی ماری",
+          "phone": "09129639737 - 46104529",
+          "website": "",
+          "status": 1,
+          "lat": 35.764386,
+          "lon": 51.332151,
+          "restaurantClass": "",
+          "foodTypes": [],
+          "restaurantTypes": [],
+          "isFavorite": false,
+          "priority": 1000,
+          "city": "تهران",
+          "area": "پونک شمالی",
+          "commentCount": 28917,
+          "recommendedFor": "",
+          "establishment": "BAKERY",
+          "mostPopularItems": "",
+          "costsForTwo": 154000,
+          "onlineOrder": true,
+          "voteCount": 28917,
+          "discountType": null,
+          "menuUrl": "https://snappfood.ir/restaurant/menu/09wwlq/nanmari?superTypeAlias=CONFECTIONERY",
+          "discountValue": 0,
+          "discountForAll": false,
+          "containerFee": 0,
+          "deliveryGuarantee": true,
+          "badges": [
+            {
+              "title": "ارسال با اسنپ فود",
+              "description": "سفارش شما از این رستوران با اسنپ‌اکسپرس، سریع‌تر به دست شما می‌رسد",
+              "image": "https://static.zoodfood.com/bundles/bodofoodfrontend/images/vendor/express-badge-png.png",
+              "white_image": "https://static.zoodfood.com/bundles/bodofoodfrontend/images/vendor/header/express.png"
+            },
+            {
+              "title": "شیرینی‌فروشی",
+              "description": "شیرینی‌فروشی",
+              "image": "https://static.zoodfood.com/bundles/bodofoodfrontend/images/landing/sweet/gray-sweet.png",
+              "white_image": "https://static.zoodfood.com/bundles/bodofoodfrontend/images/landing/sweet/white-sweet.png"
+            }
+          ],
+          "discountStartHour1": "",
+          "discountStopHour1": "",
+          "discountStartHour2": "",
+          "discountStopHour2": "",
+          "discountValueForView": 0,
+          "coverPath": "https://cdn.snappfood.ir/300x100/uploads/images/vendors/covers/6094ef80a3583.jpg",
+          "cuisinesArray": [
+            {
+              "id": 8,
+              "title": "ساندویچ"
+            },
+            {
+              "id": 25,
+              "title": "صبحانه"
+            },
+            {
+              "id": 35,
+              "title": "کافی شاپ"
+            },
+            {
+              "id": 39,
+              "title": "شیرینی"
+            },
+            {
+              "id": 58,
+              "title": "نان فانتزی"
+            }
+          ],
+          "preOrderEnabled": false,
+          "preorderToday": {
+            "weekday": "",
+            "name": "",
+            "startHour": "",
+            "intervals": null
+          },
+          "vendorType": "CONFECTIONERY",
+          "childType": "CONFECTIONERY",
+          "budgetClass": "مناسب",
+          "vendorTypeTitle": "شیرینی‌فروشی",
+          "isZFExpress": true,
+          "deliveryFee": 6000,
+          "backgroundImage": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/6094ef80a3583.jpg",
+          "backgroundImageCustom": "https://cdn.snappfood.ir/w.x.h/uploads/images/vendors/covers/6094ef80a3583.jpg",
+          "has_coupon": false,
+          "coupon_count": 0,
+          "best_coupon": "",
+          "userImage": [
+            {
+              "id": 6628163,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/product-variation_image2/uploads/images/vendors/users/app/60f585aaa9621.jpg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/users/app/60f585aaa9621.jpg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "PRODUCT_IMAGE",
+              "userType": "ZOODFOOD"
+            },
+            {
+              "id": 6628144,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/product-variation_image2/uploads/images/vendors/users/app/60f5844a6caad.jpg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/users/app/60f5844a6caad.jpg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "PRODUCT_IMAGE",
+              "userType": "ZOODFOOD"
+            },
+            {
+              "id": 6628106,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/product-variation_image2/uploads/images/vendors/users/app/60f582a219a9a.jpg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/users/app/60f582a219a9a.jpg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "PRODUCT_IMAGE",
+              "userType": "ZOODFOOD"
+            },
+            {
+              "id": 6628107,
+              "description": null,
+              "fileName": "https://cdn.snappfood.ir/media/cache/product-variation_image2/uploads/images/vendors/users/app/60f582a224119.jpg",
+              "thumbNailSource": "https://cdn.snappfood.ir/250x250//uploads/images/vendors/users/app/60f582a224119.jpg",
+              "likeCount": 0,
+              "commentCount": 0,
+              "timeDifference": 0,
+              "imageType": "PRODUCT_IMAGE",
+              "userType": "ZOODFOOD"
+            }
+          ],
+          "menuImage": [],
+          "countReview": 28917,
+          "countOfUserImages": 442,
+          "deliveryFeeDiscount": 0,
+          "trendingScore": -0.000026,
+          "delay": "",
+          "deliver": true,
+          "eta": -1,
+          "min_eta": -1,
+          "max_eta": -1,
+          "open_at_eta": false,
+          "action": "",
+          "has_delay": false,
+          "delay_time": 0,
+          "total_time": 0,
+          "bid": false,
+          "superTypeAlias": "CONFECTIONERY",
+          "is_food_party": false,
+          "is_market_party": false,
+          "click_id": null,
+          "cpc_campaign_hash": null,
+          "is_ecommerce": false,
+          "is_economical": false,
+          "is_grocery_vip": false,
+          "is_grocery_returnable": false,
+          "is_grocery_economic": false,
+          "status_title": "ACTIVE",
+          "status_text": "",
+          "status_description": ""
+        }
+      }
+    ],
+    "extra_sections": {
+      "categories": {
+        "single_choice": true,
+        "data": []
+      },
+      "filters": {
+        "sections": [
+          {
+            "section_name": "deliveryFee",
+            "section_name_fa": "هزینه ارسال",
+            "data": [
+              {
+                "image": null,
+                "title": "رایگان",
+                "value": "delivery_fee_until_0",
+                "single_choice": false,
+                "selected": false,
+                "kind": "filters"
+              },
+              {
+                "image": null,
+                "title": "تا ۵ تومان",
+                "value": "delivery_fee_until_5",
+                "single_choice": false,
+                "selected": false,
+                "kind": "filters"
+              },
+              {
+                "image": null,
+                "title": "تا ۱۰ تومان",
+                "value": "delivery_fee_until_10",
+                "single_choice": false,
+                "selected": false,
+                "kind": "filters"
+              },
+              {
+                "image": null,
+                "title": "تا ۲۰ تومان",
+                "value": "delivery_fee_until_20",
+                "single_choice": false,
+                "selected": false,
+                "kind": "filters"
+              }
+            ]
+          },
+          {
+            "section_name": "general",
+            "section_name_fa": "فیلتر",
+            "data": [
+              {
+                "image": null,
+                "title": "دارای کوپن",
+                "value": "has_coupon",
+                "single_choice": false,
+                "selected": false,
+                "kind": "filters",
+                "suggest": true
+              },
+              {
+                "image": null,
+                "title": "دارای تخفیف",
+                "value": "has_discount",
+                "single_choice": false,
+                "selected": false,
+                "kind": "filters",
+                "suggest": true
+              },
+              {
+                "image": null,
+                "title": "اسنپ‌اکسپرس",
+                "value": "zf_express",
+                "single_choice": false,
+                "selected": false,
+                "kind": "filters"
+              }
+            ]
+          }
+        ],
+        "top": {
+          "data": [
+            {
+              "image": null,
+              "title": "بالاترین امتیاز",
+              "value": "max_rate",
+              "single_choice": true,
+              "selected": false,
+              "kind": "sortings"
+            },
+            {
+              "image": null,
+              "title": "نزدیک‌ترین",
+              "value": "nearest",
+              "single_choice": true,
+              "selected": false,
+              "kind": "sortings"
+            },
+            {
+              "image": null,
+              "title": "ارزان‌ترین",
+              "value": "least_expensive",
+              "single_choice": true,
+              "selected": false,
+              "kind": "sortings"
+            },
+            {
+              "image": null,
+              "title": "جدیدترین",
+              "value": "recent",
+              "single_choice": true,
+              "selected": false,
+              "kind": "sortings"
+            },
+            {
+              "image": null,
+              "title": "عملکرد کلی",
+              "value": "top_performance",
+              "single_choice": true,
+              "selected": false,
+              "kind": "sortings"
+            },
+            {
+              "image": null,
+              "title": "بهترین کوپن",
+              "value": "coupon_discount",
+              "single_choice": true,
+              "selected": false,
+              "kind": "sortings"
+            },
+            {
+              "image": null,
+              "title": "گران‌ترین",
+              "value": "most_expensive",
+              "single_choice": true,
+              "selected": false,
+              "kind": "sortings"
+            }
+          ]
+        }
+      }
+    },
+    "meta_tags": {
+      "header": "",
+      "title": "",
+      "description": ""
+    }
+  }
+}

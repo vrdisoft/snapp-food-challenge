@@ -1,7 +1,8 @@
 import * as React from "react";
-import { useState } from "react";
+import { useState, CSSProperties } from "react";
 import { Dispatch } from "redux";
 import { useDispatch, useSelector } from "react-redux";
+import BounceLoader from "react-spinners/BounceLoader";
 
 import { getVendoreList } from "../../stateManager/action/vendoreList/actionCreator";
 import { getCurrentPosition } from "../../helper/getCurrentPosition";
@@ -56,15 +57,28 @@ function VendoreList() {
     });
   };
 
+  const override: CSSProperties = {
+    display: "block",
+    margin: "200px auto",
+  };
+
   return (
     <>
-      <List
-        columns={columns}
-        data={vendoreListState.data}
-        hasNextPage={hasNextPage}
-        isNextPageLoading={isNextPageLoading}
-        loadNextPage={loadNextPage}
+      <BounceLoader
+        loading={vendoreListState.data.length === 0}
+        cssOverride={override}
+        size={60}
+        color="#36D7B7"
       />
+      {vendoreListState.data.length > 0 && (
+        <List
+          columns={columns}
+          data={vendoreListState.data}
+          hasNextPage={hasNextPage}
+          isNextPageLoading={isNextPageLoading}
+          loadNextPage={loadNextPage}
+        />
+      )}
     </>
   );
 }
