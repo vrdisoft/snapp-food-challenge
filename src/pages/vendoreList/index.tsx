@@ -1,5 +1,5 @@
 import * as React from "react";
-import { useState, CSSProperties } from "react";
+import { useState } from "react";
 import { Dispatch } from "redux";
 import { useDispatch, useSelector } from "react-redux";
 import BounceLoader from "react-spinners/BounceLoader";
@@ -57,16 +57,10 @@ function VendoreList() {
     });
   };
 
-  const override: CSSProperties = {
-    display: "block",
-    margin: "200px auto",
-  };
-
   return (
     <>
       <BounceLoader
         loading={vendoreListState.data.length === 0}
-        cssOverride={override}
         size={60}
         color="#36D7B7"
       />
