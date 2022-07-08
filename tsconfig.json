@@ -31,7 +31,7 @@
     "target": "es5",
     "module": "commonjs",
     "allowJs": true,
-    "jsx": "react",
+    "jsx": "react-jsx",
     "outDir": "./dist",
     "rootDir": "./",
     "isolatedModules": true,
@@ -39,7 +39,8 @@
     "moduleResolution": "node",
     "baseUrl": "./src",
     "typeRoots": ["node_modules/@types", "src/typings"],
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "resolveJsonModule": true
   },
   "include": ["src/**/*"],
   "exclude": ["node_modules"]

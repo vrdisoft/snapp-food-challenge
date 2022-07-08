@@ -1,0 +1,23 @@
+@use "../../App.scss";
+
+.layout {
+    &-header {
+        &-container {
+            height: 50px;
+            background-color: #dbdcde;
+            width: 100%;
+            display: flex;
+            align-items: center;
+
+        }
+    }
+
+    &-continer {
+        height: calc(100% - 60px);
+        overflow: hidden;
+        padding-top: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}

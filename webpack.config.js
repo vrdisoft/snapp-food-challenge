@@ -20,7 +20,7 @@ module.exports = {
   output: {
     filename: '[name].[contenthash].js',
     path: path.resolve(__dirname, 'dist'),
-    assetModuleFilename: "content/[hash][ext][query]",
+    assetModuleFilename: "assets/[hash][ext][query]",
     clean: true,
     publicPath: "/"
   },
@@ -41,7 +41,7 @@ module.exports = {
         use: ['html-loader']
       },
       {
-        test: /\.s(a|c)ss$/,
+        test: /\.(s(a|c)ss|css)$/,
         use: [
           {
             loader: MiniCssExtractPlugin.loader,
@@ -52,12 +52,6 @@ module.exports = {
           ,
           {
             loader: 'css-loader',
-            options: {
-              modules: {
-                localIdentName: '[local]'
-              },
-              //url: false
-            },
           },
           {
             loader: 'resolve-url-loader',
